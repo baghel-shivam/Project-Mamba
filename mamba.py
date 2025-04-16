@@ -167,27 +167,22 @@ def takeCommand():
 
     #--------------Bad Words Handeling----------_#
     
-    elif 'chutiya' in audio_input:
-        speak("Bhaag Ja Bhosdeke")
-    elif 'chootiya' in audio_input:
-        speak("Bhaag Ja Bhosdeke")
-    
     elif 'madharchod' in audio_input:
-        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram, Chutiya saala")
+        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram")
     
     elif 'bahanchod' in audio_input:
-        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram, Chutiya saala")
+        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram")
 
     elif 'bahinchod' in audio_input:
-        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram, Chutiya saala")
+        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram")
     elif 'madarchod' in audio_input:
-        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram, Chutiya saala")
+        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram")
 
     elif 'bhaduachod' in audio_input:
-        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram, Chutiya saala")
+        speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram")
 
     elif 'bhosdike' in audio_input:
-         speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram, Chutiya saala")
+         speak("Sir I am not like you , and i think you are not deserve me , please go and watch reels on Instagram")
 
 #------------------ Main Area ----------------#
 
